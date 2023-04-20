@@ -1,4 +1,4 @@
-import { Component } from "react";
+// import { Component } from "react";
 // import '../search_box/search-box.styles.css'
 import './search-box.styles.css'
 
